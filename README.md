@@ -3,7 +3,7 @@ data/code relating to paper titled: Future (2015-2100) ice-shelf firn air deplet
 
 Here are the steps I took through this project with related code and output references. All code is stored in the code folder and output is stored in the output folder.
 
-1) Read SNOWPACK output
+1) Read SNOWPACK output//
 In this step, I created pickle files for each site with condensed SNOWPACK output of necessary information (date, density, air content)
 Code: read_SNOWPACK_output.ipynb
 

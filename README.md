@@ -40,3 +40,6 @@ Code: run_emulator_historical.ipynb, run_emulator_future.ipynb
 **7) Analysis:**
 
 Here I include code used to calculate the average ice-shelf FAC and to make the manuscript figures
+
+Code: create_stats_csvs.ipynb - creates a csv file with end-of-simulation (historical, ssp1, ssp3, ssp5) FAC for each ice shelf and ice shelf region
+Output: fac_X.csv - ice shelf and ice shelf region FAC from each thickness-permeability relationship
